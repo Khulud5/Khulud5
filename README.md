@@ -1,5 +1,5 @@
  👋 Hi, I’m Khulud  
-I'm a Computer Science at AOU, passionate about Front-end development.
+I'm a Computer Science, passionate about Front-end development.
 
 - 🎓 Studying at AOU
 - 💻 Working with HTML, CSS, and JavaScript 
